@@ -14,7 +14,7 @@
   // CONFIGURATION - Change API_BASE to your server URL
   // ============================================================
   const CONFIG = {
-    API_BASE: "https://studyflow.work.gd/floatingapp/", // ← Đổi thành URL server của bạn
+    API_BASE: "https://studyflow.work.gd/floatingapp/backend/", // ← Đổi thành URL server của bạn
     API_ENDPOINT: "/api/config.php",
     API_TOKEN: "Danhdz611@@", // ← Phải khớp với backend
     POLL_INTERVAL: 30000, // 30 giây fetch lại config
