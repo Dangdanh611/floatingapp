@@ -21,7 +21,7 @@
 
   const API_BASE  = "https://studyflow.work.gd/floatingapp/backend";   // ← URL thư mục backend của bạn
   const API_TOKEN = "Danhdz611@@";       // ← Token trong config/db.php
-  const POLL_MS   = 30000;                          // ← Đồng bộ mỗi X ms (30000 = 30s)
+  const POLL_MS   = 3000;                          // ← Đồng bộ mỗi X ms (30000 = 30s)
 
   // ══════════════════════════════════════════════════════════════
   //  PHẦN CÒN LẠI: KHÔNG CẦN SỬA
